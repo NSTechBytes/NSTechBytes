@@ -1,18 +1,42 @@
-# Welcome to NS Tech Bytes 👋
+# Hi there, I'm NSTechBytes! 👋
 
-Hi, I'm Nasir Shahbaz, the creator of NS Tech Bytes on YouTube. I love exploring and sharing tech tips, programming tutorials, and automation tricks. My goal is to make tech accessible and fun for everyone!
+Welcome to my GitHub profile! I'm a passionate developer with a love for technology and coding. Here's a bit more about me:
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 🔭 I’m currently working on: Automating workflows with Python, AutoHotkey, and PowerShell
-- 🌱 I’m currently learning: Advanced CSS effects and backend development with Node.js
-- 👯 I’m looking to collaborate on: Open-source projects related to automation and tech tools
-- 🤔 I’m looking for help with: Best practices for managing video-based content on websites
-- 💬 Ask me about: Python, CSS tricks, PowerShell scripting, and tech content creation
-- 📫 How to reach me: [NS Tech Bytes](https://youtube.com/@nstechbytes?si=JyH9UVx6ubwrSGP2)
+- 🔭 I’m currently working on a C# project.
+- 🌱 I’m currently learning **C# and advanced plugin development**
+- 💬 Ask me about **Rainmeter plugins, C#, and UI/UX design**
+- 📫 How to reach me: **nstechbytes@gmail.com**
+- ⚡ Fun fact: **I love integrating modern design elements into functional tools**
 
-## ⚡ Fun fact
+## 🛠️ Technologies & Tools
 
-I enjoy experimenting with new programming languages and automating day-to-day tasks to save time!
+![Languages](https://img.shields.io/badge/Languages-C%23%2C%20JavaScript%2C%20HTML%2C%20CSS%2C%20Python%2C%20C++%2C%20C%2C%20Lua%2C%20PowerShell-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![Frameworks](https://img.shields.io/badge/Frameworks-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
+![Tools](https://img.shields.io/badge/Tools-Git%2C%20Visual%20Studio%2C%20Visual%20Studio%20Code-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
+## 📈 GitHub Stats
 
+![NSTechBytes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NSTechBytes&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSTechBytes&layout=compact&theme=radical)
+
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=NSTechBytes&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+## 📌 Top Repository
+
+[![BlurInput](https://github-readme-stats.vercel.app/api/pin/?username=NSTechBytes&repo=BlurInput&theme=radical)](https://github.com/NSTechBytes/BlurInput)
+
+[![SendKeys](https://github-readme-stats.vercel.app/api/pin/?username=NSTechBytes&repo=SendKeys&theme=radical)](https://github.com/NSTechBytes/SendKeys)
+
+[![rainsyntax](https://github-readme-stats.vercel.app/api/pin/?username=NSTechBytes&repo=rainsyntax&theme=radical)](https://github.com/NSTechBytes/rainsyntax)
+
+[![ExportFonts](https://github-readme-stats.vercel.app/api/pin/?username=NSTechBytes&repo=ExportFonts&theme=radical)](https://github.com/NSTechBytes/ExportFonts)
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-NSTechBytes-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)](https://github.com/NSTechBytes)
+[![Discord](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](discord.gg/fZejMxtMhf)
+
+✨ Thanks for visiting! ✨
