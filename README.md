@@ -17,9 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTechBytes&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NSTechBytes&theme=redical" alt="GitHub Activity Graph">
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NSTechBytes&theme=radical&no-frame=true&row=1&column=6" alt="Trophies">
