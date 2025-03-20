@@ -3,27 +3,37 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/NSTechBytes">
+    <img src="https://komarev.com/ghpvc/?username=NSTechBytes&style=for-the-badge" alt="Profile Views">
+  </a>
+  <a href="https://github.com/NSTechBytes?tab=followers">
+    <img src="https://img.shields.io/github/followers/NSTechBytes?style=for-the-badge" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/NSTechBytes">
+    <img src="https://img.shields.io/github/stars/NSTechBytes?style=for-the-badge" alt="GitHub Stars">
+  </a>
   <a href="https://youtube.com/@nstechbytes">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCY7ZilAd7hEk3BVDeBXR9fQ?label=YouTube%20Subscribers&style=social" alt="YouTube Subscribers">
-  </a>
-  <a href="https://github.com/NSTechBytes">
-    <img src="https://img.shields.io/github/followers/NSTechBytes?label=GitHub%20Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/NSTechBytes">
-    <img src="https://img.shields.io/github/stars/NSTechBytes?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCY7ZilAd7hEk3BVDeBXR9fQ?style=for-the-badge" alt="YouTube Subscribers">
   </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NSTechBytes&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTechBytes&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NSTechBytes&theme=radical&no-frame=true&row=1&column=6" alt="Trophies">
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Nasir Shahbaz** – a tech enthusiast, programmer, and content creator passionate about making technology accessible and fun for everyone. I love exploring new tech trends, developing automation tools, and sharing my knowledge through engaging content. When I'm not coding, you can find me experimenting with new programming languages and enhancing my skills!
+Hi, I'm **Nasir Shahbaz** – a tech enthusiast, programmer, and content creator passionate about making technology accessible and enjoyable for everyone. I thrive on exploring new tech trends, developing automation tools, and sharing my knowledge through engaging content. When I'm not coding, you can find me experimenting with new programming languages and enhancing my skills!
 
 ---
 
@@ -40,6 +50,20 @@ A handy Rainmeter plugin that displays the title of the currently focused window
 ### Video Converter 🎬
 A simple and efficient GUI application for converting multiple video files into different formats. Built using Python and PyQt5, it offers adjustable quality settings for optimal output.  
 [Explore the Repository »](https://github.com/NSTechBytes/Video-Converter)
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
 
 ---
 
@@ -87,14 +111,6 @@ I’m always open to collaborating on innovative open-source projects, especiall
   <a href="https://www.tiktok.com/@nstechbytes">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="mailto:nstechbytes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-When I'm not coding or creating content, I'm busy automating my daily tasks and exploring new programming languages to fuel my passion for innovation!
-
+  <a href
+::contentReference[oaicite:0]{index=0}
+ 
