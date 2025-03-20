@@ -1,59 +1,78 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+NS+Tech+Bytes!+👋;Empowering+Tech+Enthusiasts+Worldwide!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+NS+Tech+Bytes!+👋;Empowering+Tech+Enthusiasts+Worldwide!+🚀;Sharing+Knowledge+with+Passion+💡" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCY7ZilAd7hEk3BVDeBXR9fQ?label=YouTube%20Subscribers&style=social" alt="YouTube Subscribers">
-  <img src="https://img.shields.io/github/followers/NSTechBytes?label=GitHub%20Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/NSTechBytes?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+  <a href="https://youtube.com/@nstechbytes">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCY7ZilAd7hEk3BVDeBXR9fQ?label=YouTube%20Subscribers&style=social" alt="YouTube Subscribers">
+  </a>
+  <a href="https://github.com/NSTechBytes">
+    <img src="https://img.shields.io/github/followers/NSTechBytes?label=GitHub%20Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/NSTechBytes">
+    <img src="https://img.shields.io/github/stars/NSTechBytes?label=GitHub%20Stars&style=social" alt="GitHub Stars">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NSTechBytes&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSTechBytes&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/f8e74f1342496cc3d81c85f5e2646230571259fdd1890df2c7f2cd8a94c5a0db/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e53546563684279746573267468656d653d7261646963616c266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d36" alt="Trophies">
 </p>
 
 ---
 
-Hi, I'm **Nasir Shahbaz**, the creator of NS Tech Bytes. I love exploring and sharing tech tips, programming tutorials, and automation tricks. My goal is to make tech accessible and fun for everyone! 🚀
+## 👋 About Me
 
-## 🔭 Current Projects
+Hi, I'm **Nasir Shahbaz** – a tech enthusiast, programmer, and content creator passionate about making technology accessible and fun for everyone. I love exploring new tech trends, developing automation tools, and sharing my knowledge through engaging content. When I'm not coding, you can find me experimenting with new programming languages and enhancing my skills!
 
-- **Video to Audio Converter**: 🎵 A user-friendly Python application that converts video files into audio formats like MP3, WAV, and AAC. It supports batch conversion and customizable bitrates. [GitHub Repository](https://github.com/NSTechBytes/Video-to-Audio)
+---
 
-- **FocusTitle Rainmeter Plugin**: 🖥️ Displays the title of the currently focused window or application name in Rainmeter. [GitHub Repository](https://github.com/NSTechBytes/FocusTitle)
+## 🔭 Projects
 
-- **Video Converter**: 🎬 A simple and efficient GUI application for converting multiple video files into different formats with adjustable quality settings. Built using Python and PyQt5. [GitHub Repository](https://github.com/NSTechBytes/Video-Converter)
+### Video to Audio Converter 🎵
+A user-friendly Python application that converts video files into various audio formats (MP3, WAV, AAC) with customizable bitrates and batch processing.  
+[Explore the Repository »](https://github.com/NSTechBytes/Video-to-Audio)
+
+### FocusTitle Rainmeter Plugin 🖥️
+A handy Rainmeter plugin that displays the title of the currently focused window or application, keeping your desktop information up-to-date and organized.  
+[Explore the Repository »](https://github.com/NSTechBytes/FocusTitle)
+
+### Video Converter 🎬
+A simple and efficient GUI application for converting multiple video files into different formats. Built using Python and PyQt5, it offers adjustable quality settings for optimal output.  
+[Explore the Repository »](https://github.com/NSTechBytes/Video-Converter)
+
+---
 
 ## 🌱 Currently Learning
 
-- 🎨 Advanced CSS effects
-- 🛠️ Backend development with Node.js
+- **Advanced CSS Effects:** Pushing the boundaries of web design with creative animations and interactions.
+- **Backend Development with Node.js:** Diving into scalable server-side solutions and API development.
 
-## 👯 Looking to Collaborate On
+---
 
-- 🤖 Open-source projects related to automation and tech tools
+## 👯 Collaborations & Contributions
 
-## 🤔 Seeking Help With
+I’m always open to collaborating on innovative open-source projects, especially those focused on automation, tech tools, and community-driven solutions. If you have an idea or need a tech partner, feel free to reach out!
 
-- 📹 Best practices for managing video-based content on websites
+---
+
+## 🤔 Need Help With?
+
+- **Video Content Management:** Exploring best practices for handling and streaming video content on websites.
+- **Automation Projects:** Streamlining repetitive tasks through effective automation solutions.
+
+---
 
 ## 💬 Ask Me About
 
-- 🐍 Python
-- 🎨 CSS tricks
-- 🖥️ PowerShell scripting
-- 🎥 Tech content creation
+- **Python Programming**
+- **CSS Tricks and Effects**
+- **PowerShell Scripting**
+- **Tech Content Creation**
 
-## 📫 How to Reach Me
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://youtube.com/@nstechbytes">
@@ -73,6 +92,9 @@ Hi, I'm **Nasir Shahbaz**, the creator of NS Tech Bytes. I love exploring and sh
   </a>
 </p>
 
+---
+
 ## ⚡ Fun Fact
 
-I enjoy experimenting with new programming languages and automating day-to-day tasks to save time!
+When I'm not coding or creating content, I'm busy automating my daily tasks and exploring new programming languages to fuel my passion for innovation!
+
