@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NSTechBytes&theme=radical&no-frame=true&row=1&column=6" alt="Trophies">
+  <img src="https://camo.githubusercontent.com/f8e74f1342496cc3d81c85f5e2646230571259fdd1890df2c7f2cd8a94c5a0db/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e53546563684279746573267468656d653d7261646963616c266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d36" alt="Trophies">
 </p>
 
 ---
