@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **NSTECHBYTES**, a passionate software developer with a strong attention to detail, ensuring you receive only the highest-quality products—or nothing at all.
+I am **NSTECHBYTES**, a passionate software developer with a strong attention to detail, ensuring you receive only the highest-quality products or nothing at all.
 
 ![nstechbytes's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/nstechbytes?cardType=level\&theme=radical\&preferLogin=false)
 
